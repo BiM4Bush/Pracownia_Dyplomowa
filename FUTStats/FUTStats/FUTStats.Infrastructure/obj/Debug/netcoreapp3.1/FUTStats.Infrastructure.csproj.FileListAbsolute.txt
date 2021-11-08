@@ -1,0 +1,8 @@
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\bin\Debug\netcoreapp3.1\FUTStats.Infrastructure.deps.json
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\bin\Debug\netcoreapp3.1\FUTStats.Infrastructure.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\bin\Debug\netcoreapp3.1\FUTStats.Infrastructure.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\obj\Debug\netcoreapp3.1\FUTStats.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\obj\Debug\netcoreapp3.1\FUTStats.Infrastructure.AssemblyInfo.cs
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\obj\Debug\netcoreapp3.1\FUTStats.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\obj\Debug\netcoreapp3.1\FUTStats.Infrastructure.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Infrastructure\obj\Debug\netcoreapp3.1\FUTStats.Infrastructure.pdb
