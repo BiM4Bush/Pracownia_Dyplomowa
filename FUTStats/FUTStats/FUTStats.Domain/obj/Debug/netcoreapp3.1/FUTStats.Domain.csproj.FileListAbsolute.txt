@@ -1,9 +1,0 @@
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\bin\Debug\netcoreapp3.1\FUTStats.Domain.deps.json
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\bin\Debug\netcoreapp3.1\FUTStats.Domain.dll
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\bin\Debug\netcoreapp3.1\FUTStats.Domain.pdb
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.csprojAssemblyReference.cache
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.AssemblyInfoInputs.cache
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.AssemblyInfo.cs
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.csproj.CoreCompileInputs.cache
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.dll
-C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FUTStats\FUTStats\FUTStats.Domain\obj\Debug\netcoreapp3.1\FUTStats.Domain.pdb
