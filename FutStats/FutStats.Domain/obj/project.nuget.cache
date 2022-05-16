@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "swBtfHTgkyTFyved/wu0YpErkkWF86D4R2p3eMqf0pZExH3W1MY+1B991KIx1D4fhU3kb87wdUnNRY92BZmwGQ==",
+  "dgSpecHash": "SIvV6zOGTSXc7aSC1oWXf9yZ7bevb5S0b7++dYWCVIVXScXySuKgbAhcao+lJqJdgWJRJTTJitNT4VhN0NBCcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
+  "projectFilePath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebak\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.16\\microsoft.entityframeworkcore.5.0.16.nupkg.sha512",
     "C:\\Users\\sebak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.16\\microsoft.entityframeworkcore.abstractions.5.0.16.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\FutStats.Api.csproj": {}
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\FutStats.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\FutStats.Application.csproj": {
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\FutStats.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\FutStats.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\FutStats.Application.csproj",
         "projectName": "FutStats.Application",
-        "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\FutStats.Application.csproj",
+        "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\FutStats.Application.csproj",
         "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\obj\\",
+        "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
         "projectName": "FutStats.Domain",
-        "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
+        "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
         "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj": {
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
         "projectName": "FutStats.Infrastructure",
-        "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,8 +163,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj",
         "projectName": "FutStats.Shared",
-        "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj",
+        "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj",
         "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\obj\\",
+        "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -294,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\FutStats.Api.csproj": {
+    "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\FutStats.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\FutStats.Api.csproj",
+        "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\FutStats.Api.csproj",
         "projectName": "FutStats.Api",
-        "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\FutStats.Api.csproj",
+        "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\FutStats.Api.csproj",
         "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\obj\\",
+        "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -321,14 +321,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\FutStats.Application.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Application\\FutStats.Application.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\FutStats.Application.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Application\\FutStats.Application.csproj"
               },
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj"
               },
-              "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj"
+              "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj"
               }
             }
           }

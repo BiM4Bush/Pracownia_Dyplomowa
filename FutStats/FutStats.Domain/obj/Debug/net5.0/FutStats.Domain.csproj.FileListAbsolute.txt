@@ -28,3 +28,18 @@ C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Domain\obj\Debug\net
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Domain\obj\Debug\net5.0\refint\FutStats.Domain.dll
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.pdb
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Domain\obj\Debug\net5.0\ref\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\FutStats.Domain.deps.json
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\ref\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\FutStats.Domain.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\bin\Debug\net5.0\FutStats.Shared.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.csprojAssemblyReference.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.AssemblyInfoInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.AssemblyInfo.cs
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.csproj.CopyComplete
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\ref\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Domain\obj\Debug\net5.0\FutStats.Domain.pdb

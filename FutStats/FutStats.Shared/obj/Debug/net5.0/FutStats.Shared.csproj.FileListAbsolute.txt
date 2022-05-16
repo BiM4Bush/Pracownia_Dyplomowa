@@ -22,3 +22,15 @@ C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Shared\obj\Debug\net
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Shared\obj\Debug\net5.0\refint\FutStats.Shared.dll
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.pdb
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Shared\obj\Debug\net5.0\ref\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\bin\Debug\net5.0\FutStats.Shared.deps.json
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\bin\Debug\net5.0\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\bin\Debug\net5.0\ref\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\bin\Debug\net5.0\FutStats.Shared.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.csprojAssemblyReference.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.AssemblyInfoInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.AssemblyInfo.cs
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\ref\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Shared\obj\Debug\net5.0\FutStats.Shared.pdb

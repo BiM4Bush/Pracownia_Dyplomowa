@@ -57,6 +57,7 @@ namespace FutStats.Api.Player
             };
             return Ok(result);
         }
+
         [HttpPost("create")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]

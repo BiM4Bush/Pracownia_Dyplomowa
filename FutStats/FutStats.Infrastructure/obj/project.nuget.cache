@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4KPqD8EbxvtmK1GhHbmwbPa6AMC/RUCaInrYCHxyhbtPzV0R2Y853I5gjCBPloxdkqmktMoQ1erqOlHr8mDVg==",
+  "dgSpecHash": "nfi4iwKxdBWpm9h3PlIyEiUDCJRztlIIX1j9Pz3VR6H8QwfpLx+ndwcNJHw3a0ZVtZ02KcV4wveU9a9KTALJ5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Infrastructure\\FutStats.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebak\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\sebak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
