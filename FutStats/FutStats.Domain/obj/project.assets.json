@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
       "projectName": "FutStats.Domain",
-      "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
+      "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\FutStats.Domain.csproj",
       "packagesPath": "C:\\Users\\sebak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Domain\\obj\\",
+      "outputPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -640,8 +640,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
-              "projectPath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj"
+            "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj": {
+              "projectPath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats.Shared\\FutStats.Shared.csproj"
             }
           }
         }

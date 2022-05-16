@@ -32,3 +32,20 @@ C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Application\obj\Debu
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Application\obj\Debug\net5.0\refint\FutStats.Application.dll
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.pdb
 C:\Users\skrzynowek\source\repos\FutStats\FutStats\FutStats.Application\obj\Debug\net5.0\ref\FutStats.Application.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Application.deps.json
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Application.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\ref\FutStats.Application.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Application.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Domain.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Shared.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Domain.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\bin\Debug\net5.0\FutStats.Shared.pdb
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.csprojAssemblyReference.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.AssemblyInfoInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.AssemblyInfo.cs
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.csproj.CopyComplete
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\ref\FutStats.Application.dll
+C:\Users\sebak\Desktop\Praca inżynierska\Pracownia_Dyplomowa\FutStats\FutStats.Application\obj\Debug\net5.0\FutStats.Application.pdb

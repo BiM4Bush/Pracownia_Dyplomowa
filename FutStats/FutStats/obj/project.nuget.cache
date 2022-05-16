@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBD9d5xaE1TjSMuiXLOW5GGyNCkAz6MoZ0LEm6Jwn/Xvi1//4Qy1Sm1OFaswq462axVV3YxRgJya+2zmbYMq9w==",
+  "dgSpecHash": "hfjJWvLmALWMMAxWQOC4BfiwHGeYzsztOWst1FT0deBjtJ2dCD5isbnBlju+QpeY5Oewd7iN85vFZnVl4MPkIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebak\\Desktop\\FutStats\\FutStats\\FutStats.Api.csproj",
+  "projectFilePath": "C:\\Users\\sebak\\Desktop\\Praca inżynierska\\Pracownia_Dyplomowa\\FutStats\\FutStats\\FutStats.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebak\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\sebak\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
